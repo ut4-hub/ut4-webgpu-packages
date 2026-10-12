@@ -1,0 +1,8 @@
+name = "ut4-packs"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[[routes]]
+pattern = "ut4-packs.pick.haus"
+custom_domain = true
